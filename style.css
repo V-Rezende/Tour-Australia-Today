@@ -1,0 +1,13 @@
+.card img {
+    width: 354px;
+    height: 250px;
+
+}
+
+.card-body {
+    height: 270px;
+}
+
+.card-text {
+   padding-bottom: auto;
+}
